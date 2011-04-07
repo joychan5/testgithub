@@ -12,3 +12,4 @@
       while( p != end)
       std::cout << *p++ << std::endl;
       }
+// add new line
