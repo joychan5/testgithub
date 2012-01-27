@@ -15,6 +15,6 @@ int main ()
   // show content:
   for ( it=mymap.begin() ; it != mymap.end(); it++ )
     cout << (*it).first << " => " << (*it).second << endl;
-
+//asdfasdflk
   return 0;
 }
